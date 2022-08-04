@@ -25,4 +25,4 @@ Hopefully this allows me to find the best zip codes to try and set up an airbnb.
 Possible Future Plans2:
 Automate the process of messaging houndreds of brokers.
 
-  Many Landlords dont allow airbnbs, however there is a few that will. Hopefully, I can make a contact blast, and based on responses narrow my search down. 
+  Many Landlords dont allow airbnbs, however there is a few that will. Hopefully, I can make a contact blast, and based on responses received narrow down my search down. 

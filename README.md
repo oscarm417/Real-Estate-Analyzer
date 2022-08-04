@@ -10,6 +10,8 @@ Outputs -> Real Estate properties undervalued in a certain zip code.
 
 *Awaiting Zillow API Key to begin*
 
+Will also incorporate a simple net present value calculator in order to evalue the NPV of a property. This will incorporate annual maintenance costs, insurance, taxes, and other annual costs into the calculation.  
+
 ========================================================================
 
 Possible Future Plans:

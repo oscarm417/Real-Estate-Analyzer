@@ -15,11 +15,14 @@ Outputs -> Real Estate properties undervalued in a certain zip code.
 Possible Future Plans:
 Airbnb Analyzer:
   Analyze Zip Codes for:
+  
     * Average days booked per month
     * Average booking price
     * Average Cleaning Fee
+    
 Hopefully this allows me to find the best zip codes to try and set up an airbnb. 
 ========================================================================
 Possible Future Plans2:
 Automate the process of messaging houndreds of brokers.
+
   Many Landlords dont allow airbnbs, however there is a few that will. Hopefully, I can make a contact blast, and based on responses narrow my search down. 

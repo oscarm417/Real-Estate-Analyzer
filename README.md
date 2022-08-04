@@ -8,6 +8,8 @@ In order to account for the almost yearly increase in real estate prices, I will
 Inputs -> Zillow API, Zip Code
 Outputs -> Real Estate properties undervalued in a certain zip code. 
 
+*Awaiting Zillow API Key to begin*
+
 ========================================================================
 
 Possible Future Plans:
